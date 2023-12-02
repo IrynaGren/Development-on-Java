@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/lab5/Letter.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/lab5/Main.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/lab5/Punctuation.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/lab5/Sentences.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/lab5/Text.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/lab5/Word.java" charset="windows-1251" />
+  </component>
+</project>
